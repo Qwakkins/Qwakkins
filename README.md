@@ -4,7 +4,9 @@ I'm a full-stack developer who builds products end to end with Next.js, React, T
 
 ### Featured
 
-**[GEO Tracker](https://github.com/Qwakkins/AI-SEO)**: measures how often ChatGPT, Claude, Gemini and Perplexity recommend a local business, and flags the phone numbers, addresses and services they get wrong. Next.js 16, Supabase, Clerk, four LLM APIs, a weekly cron rescan, tested and deployed on Vercel. [Live demo](https://geo-tracker-seven-zeta.vercel.app)
+**[GEO Tracker](https://github.com/Qwakkins/AI-SEO)**: measures how often ChatGPT, Claude, Gemini and Perplexity recommend a local business, and flags the phone numbers, addresses and services they get wrong. Next.js 16, React 19, Supabase, four LLM APIs, a weekly cron rescan, tested with Vitest and deployed on Vercel. [Live demo](https://geo-tracker-seven-zeta.vercel.app)
+
+<a href="https://geo-tracker-seven-zeta.vercel.app"><img src="images/geo-tracker-landing.jpg" alt="GEO Tracker landing page with an example visibility report" width="100%"></a>
 
 I've also built (private for now):
 
